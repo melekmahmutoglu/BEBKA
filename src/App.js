@@ -10,6 +10,7 @@ function App() {
           BEBKA EGİTİM UYGULAMA
           ECE BRANCH'I HOŞ GELDİN.
           Dördüncü Commit
+          Beşinci Commit
         </p>
         <a
           className="App-link"
