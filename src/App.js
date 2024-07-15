@@ -11,6 +11,7 @@ function App() {
           ECE BRANCH'I HOŞ GELDİN.
           Dördüncü Commit
           Beşinci Commit
+          Altıncı Commit
         </p>
         <a
           className="App-link"
