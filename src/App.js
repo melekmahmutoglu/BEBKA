@@ -9,6 +9,7 @@ function App() {
         <p>
           BEBKA EGİTİM UYGULAMA
           ECE BRANCH'I HOŞ GELDİN.
+          Dördüncü Commit
         </p>
         <a
           className="App-link"
