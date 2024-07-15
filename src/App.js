@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          BEBKA EGİTİM DENEMELERİ
+          BEBKA EGİTİM UYGULAMA
+          ECE BRANCH'I HOŞ GELDİN.
+          Dördüncü Commit
         </p>
         <a
           className="App-link"
